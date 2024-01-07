@@ -1,7 +1,7 @@
 from Crypto.Cipher import DES
 from Crypto.Util.Padding import pad
 
-plain_text = "teknikinformatika"
+plain_text = "Muhammad Farhan"
 
 # 8 byte block 
 key = b'inikunci' 
